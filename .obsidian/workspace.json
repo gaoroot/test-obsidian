@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0522159eb212053a",
+        "id": "eb9f39ba2a6ddd77",
         "type": "tabs",
         "children": [
           {
-            "id": "3316c76e692f71fe",
+            "id": "4f7b12df96b3ed06",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,10 +138,13 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "3316c76e692f71fe",
+  "active": "4f7b12df96b3ed06",
   "lastOpenFiles": [
     "README.md",
-    "Welcome.md",
-    "Test.md"
+    "Docker.md",
+    "Dockerfile",
+    "ТЕСТ.md",
+    "Test.md",
+    "Welcome.md"
   ]
 }
